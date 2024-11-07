@@ -3,5 +3,6 @@ API 명세서(스웨거 UI)
 게시글 단건 조회
 ![image](https://github.com/user-attachments/assets/ea124e69-d934-4487-a84c-3d7c25393d6c)
 게시글 다건 조회
-![image](https://github.com/user-attachments/assets/b61c6068-cf3a-4b31-9e83-90b5ea04f30f)
+![image](https://github.com/user-attachments/assets/10ad539d-c693-4ba3-828c-9fec2134edc8)
+
 
