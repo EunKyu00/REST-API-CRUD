@@ -4,5 +4,7 @@ API 명세서(스웨거 UI)
 ![image](https://github.com/user-attachments/assets/ea124e69-d934-4487-a84c-3d7c25393d6c)
 게시글 다건 조회
 ![image](https://github.com/user-attachments/assets/10ad539d-c693-4ba3-828c-9fec2134edc8)
+게시글 등록
+![image](https://github.com/user-attachments/assets/01f707c9-6e7f-4128-afab-8a329712495b)
 
 
